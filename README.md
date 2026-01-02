@@ -70,7 +70,7 @@
 ## 🚀 快速使用
 
 ### 在线使用
-1. 直接访问：[在线计算器](https://liseezn.github.io/BIM-calculator/)
+1. 直接访问：[在线计算器](https://liseezn.github.io/BMI-calculator/)
 2. 输入个人信息（出生日期、身高、体重、腰围、性别）
 3. 点击"计算"按钮获取综合评估结果
 
