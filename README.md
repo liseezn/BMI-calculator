@@ -1,7 +1,7 @@
 # liseezn BMI+体脂率 综合计算器
 
-[![GitHub license](https://img.shields.io/badge/license-LGPL--3.0-blue.svg)](https://github.com/liseezn/bmi-calculator/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/liseezn/bmi-calculator)](https://github.com/liseezn/bmi-calculator/stargazers)
+[![GitHub license](https://img.shields.io/badge/license-LGPL--3.0-blue.svg)](https://github.com/liseezn/BMI-calculator/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/liseezn/bmi-calculator)](https://github.com/liseezn/BMI-calculator/stargazers)
 
 一个基于国家卫健委《体重管理指导原则（2024年版）》的BMI+体脂率综合计算器，支持全年龄段（0-100岁+）人群评估。
 
